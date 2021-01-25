@@ -15,7 +15,7 @@ Java A Very Big Sum.java = https://www.hackerrank.com/challenges/a-very-big-sum/
 Java Apple and Orange.java = https://www.hackerrank.com/challenges/apple-and-orange/problem<br>
 Java Hashset.java = https://www.hackerrank.com/challenges/java-hashset/problem<br>
 
-<br>
+
 <br>
 <br>
 <br>
@@ -24,7 +24,7 @@ Java Hashset.java = https://www.hackerrank.com/challenges/java-hashset/problem<b
 Javascript Pairwise.js = https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise
 Javascript Use .has and .size.js = https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use--has-and--size-on-an-es6-set
 
-<br>
+
 <br>
 <br>
 <br>
