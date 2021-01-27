@@ -67,6 +67,7 @@ Python Library Fine.py = https://www.hackerrank.com/challenges/library-fine/prob
 Python Mod Divmod.py = https://www.hackerrank.com/challenges/python-mod-divmod/problem<br>
 Python Delete a Node.py = https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem<br>
 Python Print the Elements.py = https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/submissions/code/195310432<br>
+Python Mean, Median, and Mode.py = https://www.hackerrank.com/challenges/s10-basic-statistics/problem<br>
 
 
 
