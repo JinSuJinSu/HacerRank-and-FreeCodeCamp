@@ -68,6 +68,7 @@ Python Mod Divmod.py = https://www.hackerrank.com/challenges/python-mod-divmod/p
 Python Delete a Node.py = https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem<br>
 Python Print the Elements.py = https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/submissions/code/195310432<br>
 Python Mean, Median, and Mode.py = https://www.hackerrank.com/challenges/s10-basic-statistics/problem<br>
+Python The Time in Words.py = https://www.hackerrank.com/challenges/the-time-in-words/problem<br>
 
 
 
