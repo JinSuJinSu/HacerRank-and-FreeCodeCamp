@@ -14,6 +14,7 @@ Java Date and Time.java = https://www.hackerrank.com/challenges/java-date-and-ti
 Java A Very Big Sum.java = https://www.hackerrank.com/challenges/a-very-big-sum/problem<br>
 Java Apple and Orange.java = https://www.hackerrank.com/challenges/apple-and-orange/problem<br>
 Java Hashset.java = https://www.hackerrank.com/challenges/java-hashset/problem<br>
+Java Angry Professor.java = https://www.hackerrank.com/challenges/angry-professor/problem<br>
 
 
 <br>
