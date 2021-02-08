@@ -1,4 +1,4 @@
-//We can refer the below url.
+///We can refer the below url.
 //https://www.hackerrank.com/challenges/java-exception-handling/problem
 
     import java.util.Scanner;
