@@ -1,4 +1,4 @@
-//We can click the practice url in README.md
+//We can click the practice url in README.md whatever we want.
 
 
     import java.util.Scanner;
