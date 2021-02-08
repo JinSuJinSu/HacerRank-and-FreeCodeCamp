@@ -3,4 +3,5 @@
 
 
 Java Exception Handling.java = https://www.hackerrank.com/challenges/java-exception-handling/problem
+Java Dequeue.java = https://www.hackerrank.com/challenges/java-dequeue/problem
 
