@@ -10,6 +10,7 @@ Python collections.Counter().py = https://www.hackerrank.com/challenges/collecti
 Python itertools.combinations().py = https://www.hackerrank.com/challenges/itertools-combinations/problem<br>
 Python itertools.permutations().py = https://www.hackerrank.com/challenges/itertools-permutations/problem<br>
 Python the minion game.py = https://www.hackerrank.com/challenges/the-minion-game/problem<br>
+Python No Idea.py = https://www.hackerrank.com/challenges/no-idea/submissions/code/199494490<br>
 
 
 
