@@ -5,7 +5,7 @@
 Java Exception Handling.java = https://www.hackerrank.com/challenges/java-exception-handling/problem<br>
 Java Dequeue.java = https://www.hackerrank.com/challenges/java-dequeue/problem<br>
 Java Comparator.java = https://www.hackerrank.com/challenges/java-comparator/problem<br>
-Java Comparator.java = https://www.hackerrank.com/challenges/java-comparator/problem<br>
+Java Primality Test.java = https://www.hackerrank.com/challenges/java-primality-test/problem<br>
 
 <br>
 <br>
