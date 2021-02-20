@@ -6,6 +6,7 @@ Java Exception Handling.java = https://www.hackerrank.com/challenges/java-except
 Java Dequeue.java = https://www.hackerrank.com/challenges/java-dequeue/problem<br>
 Java Comparator.java = https://www.hackerrank.com/challenges/java-comparator/problem<br>
 Java Primality Test.java = https://www.hackerrank.com/challenges/java-primality-test/problem<br>
+Java Plus Minus.java = https://www.hackerrank.com/challenges/plus-minus/problem<br>
 
 <br>
 <br>
@@ -22,6 +23,7 @@ Python Check Subset.py = https://www.hackerrank.com/challenges/py-check-subset/s
 Python The Captain's Room.py = https://www.hackerrank.com/challenges/py-the-captains-room/problem<br>
 Python DefaultDict Tutorial.py = https://www.hackerrank.com/challenges/defaultdict-tutorial/submissions/code/200403454<br>
 Python Collections.OrderedDict().py = https://www.hackerrank.com/challenges/py-collections-ordereddict/problem<br>
+Python Staircase.py = https://www.hackerrank.com/challenges/staircase/problem<br>
 
 
 
