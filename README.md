@@ -24,6 +24,7 @@ Python The Captain's Room.py = https://www.hackerrank.com/challenges/py-the-capt
 Python DefaultDict Tutorial.py = https://www.hackerrank.com/challenges/defaultdict-tutorial/submissions/code/200403454<br>
 Python Collections.OrderedDict().py = https://www.hackerrank.com/challenges/py-collections-ordereddict/problem<br>
 Python Staircase.py = https://www.hackerrank.com/challenges/staircase/problem<br>
+Python Mini-Max Sum.py = https://www.hackerrank.com/challenges/mini-max-sum/problem<br>
 
 
 
