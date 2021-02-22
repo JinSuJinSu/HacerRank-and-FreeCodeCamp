@@ -7,6 +7,7 @@ Java Dequeue.java = https://www.hackerrank.com/challenges/java-dequeue/problem<b
 Java Comparator.java = https://www.hackerrank.com/challenges/java-comparator/problem<br>
 Java Primality Test.java = https://www.hackerrank.com/challenges/java-primality-test/problem<br>
 Java Plus Minus.java = https://www.hackerrank.com/challenges/plus-minus/problem<br>
+Java Breaking the Records.java = https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem<br>
 
 <br>
 <br>
@@ -25,6 +26,7 @@ Python DefaultDict Tutorial.py = https://www.hackerrank.com/challenges/defaultdi
 Python Collections.OrderedDict().py = https://www.hackerrank.com/challenges/py-collections-ordereddict/problem<br>
 Python Staircase.py = https://www.hackerrank.com/challenges/staircase/problem<br>
 Python Mini-Max Sum.py = https://www.hackerrank.com/challenges/mini-max-sum/problem<br>
+Python Cats and a Mouse.py = https://www.hackerrank.com/challenges/cats-and-a-mouse/problem<br>
 
 
 
