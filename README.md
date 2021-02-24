@@ -28,6 +28,7 @@ Python Staircase.py = https://www.hackerrank.com/challenges/staircase/problem<br
 Python Mini-Max Sum.py = https://www.hackerrank.com/challenges/mini-max-sum/problem<br>
 Python Cats and a Mouse.py = https://www.hackerrank.com/challenges/cats-and-a-mouse/problem<br>
 Python Grading Students.py = https://www.hackerrank.com/challenges/grading/submissions/code/201267718<br>
+Python ginortS.py = https://www.hackerrank.com/challenges/ginorts/problem<br>
 
 
 
