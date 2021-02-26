@@ -30,6 +30,7 @@ Python Cats and a Mouse.py = https://www.hackerrank.com/challenges/cats-and-a-mo
 Python Grading Students.py = https://www.hackerrank.com/challenges/grading/submissions/code/201267718<br>
 Python ginortS.py = https://www.hackerrank.com/challenges/ginorts/problem<br>
 Python Map and Lambda Function.py = https://www.hackerrank.com/challenges/map-and-lambda-expression/problem<br>
+Python Compress the String.py = https://www.hackerrank.com/challenges/compress-the-string/problem<br>
 
 
 
