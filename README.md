@@ -31,7 +31,8 @@ Python Grading Students.py = https://www.hackerrank.com/challenges/grading/submi
 Python ginortS.py = https://www.hackerrank.com/challenges/ginorts/problem<br>
 Python Map and Lambda Function.py = https://www.hackerrank.com/challenges/map-and-lambda-expression/problem<br>
 Python Compress the String.py = https://www.hackerrank.com/challenges/compress-the-string/problem<br>
-Time Delta.py = https://www.hackerrank.com/challenges/python-time-delta/problem<br>
+Python Time Delta.py = https://www.hackerrank.com/challenges/python-time-delta/problem<br>
+Python Company Logo.py = https://www.hackerrank.com/challenges/most-commons/problem<br>
 
 
 
