@@ -8,6 +8,7 @@ Java Comparator.java = https://www.hackerrank.com/challenges/java-comparator/pro
 Java Primality Test.java = https://www.hackerrank.com/challenges/java-primality-test/problem<br>
 Java Plus Minus.java = https://www.hackerrank.com/challenges/plus-minus/problem<br>
 Java Breaking the Records.java = https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem<br>
+Java Picking Numbers.java = https://www.hackerrank.com/challenges/picking-numbers/submissions/code/201439141<br>
 
 <br>
 <br>
