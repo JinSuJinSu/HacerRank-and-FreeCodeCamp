@@ -34,7 +34,8 @@ Python Map and Lambda Function.py = https://www.hackerrank.com/challenges/map-an
 Python Compress the String.py = https://www.hackerrank.com/challenges/compress-the-string/problem<br>
 Python Time Delta.py = https://www.hackerrank.com/challenges/python-time-delta/problem<br>
 Python Company Logo.py = https://www.hackerrank.com/challenges/most-commons/problem<br>
-Python Iterables and Iteratorso.py = https://www.hackerrank.com/challenges/iterables-and-iterators/problem<br>
+Python Iterables and Iterator.py = https://www.hackerrank.com/challenges/iterables-and-iterators/problem<br>
+Python Piling Up.py = https://www.hackerrank.com/challenges/piling-up/problem<br>
 
 
 
