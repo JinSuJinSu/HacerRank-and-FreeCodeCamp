@@ -36,6 +36,7 @@ Python Time Delta.py = https://www.hackerrank.com/challenges/python-time-delta/p
 Python Company Logo.py = https://www.hackerrank.com/challenges/most-commons/problem<br>
 Python Iterables and Iterator.py = https://www.hackerrank.com/challenges/iterables-and-iterators/problem<br>
 Python Piling Up.py = https://www.hackerrank.com/challenges/piling-up/problem<br>
+Python Shape and Reshape.py = https://www.hackerrank.com/challenges/np-shape-reshape/problem<br>
 
 
 
