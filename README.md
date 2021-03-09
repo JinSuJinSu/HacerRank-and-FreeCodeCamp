@@ -40,8 +40,8 @@ Python Iterables and Iterator.py = https://www.hackerrank.com/challenges/iterabl
 Python Piling Up.py = https://www.hackerrank.com/challenges/piling-up/problem<br>
 Python Shape and Reshape.py = https://www.hackerrank.com/challenges/np-shape-reshape/problem<br>
 Python Jumping on the Clouds.py = https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem<br>
-Python JList Comprehensions.py = https://www.hackerrank.com/challenges/list-comprehensions/problem<br>
-
+Python List Comprehensions.py = https://www.hackerrank.com/challenges/list-comprehensions/problem<br>
+Python Tuple.py = https://www.hackerrank.com/challenges/python-tuples/submissions/code/198931228<br>
 
 
 
