@@ -42,6 +42,7 @@ Python Shape and Reshape.py = https://www.hackerrank.com/challenges/np-shape-res
 Python Jumping on the Clouds.py = https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem<br>
 Python List Comprehensions.py = https://www.hackerrank.com/challenges/list-comprehensions/problem<br>
 Python Tuple.py = https://www.hackerrank.com/challenges/python-tuples/submissions/code/198931228<br>
+Python Electronics Shop.py = https://www.hackerrank.com/challenges/electronics-shop/problem<br>
 
 
 
