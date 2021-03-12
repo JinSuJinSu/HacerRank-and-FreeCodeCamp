@@ -44,6 +44,7 @@ Python List Comprehensions.py = https://www.hackerrank.com/challenges/list-compr
 Python Tuple.py = https://www.hackerrank.com/challenges/python-tuples/submissions/code/198931228<br>
 Python Electronics Shop.py = https://www.hackerrank.com/challenges/electronics-shop/problem<br>
 Python Power - Mod Power.py = https://www.hackerrank.com/challenges/python-power-mod-power/problem<br>
+Python Zipped.py = https://www.hackerrank.com/challenges/zipped/problem<br>
 
 
 
