@@ -49,6 +49,7 @@ Python Power - Mod Power.py = https://www.hackerrank.com/challenges/python-power
 Python Zipped.py = https://www.hackerrank.com/challenges/zipped/problem<br>
 Python Incorrect Regex.py = https://www.hackerrank.com/challenges/incorrect-regex/submissions/code/200411332<br>
 Python Athlete Sort.py = https://www.hackerrank.com/challenges/python-sort-sort/problem<br>
+Python Counting Valleys.py = https://www.hackerrank.com/challenges/counting-valleys/problem<br>
 
 
 
