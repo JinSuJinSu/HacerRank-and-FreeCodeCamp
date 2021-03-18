@@ -18,6 +18,13 @@ Java A Very Big Sum.java = https://www.hackerrank.com/challenges/a-very-big-sum/
 <br>
 <br>
 
+Javascript Pairwise.js = https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise
+
+<br>
+<br>
+<br>
+<br>
+
 Python Designer Door Mat.py = https://www.hackerrank.com/challenges/designer-door-mat/problem<br>
 Python collections.Counter().py = https://www.hackerrank.com/challenges/collections-counter/problem<br>
 Python itertools.combinations().py = https://www.hackerrank.com/challenges/itertools-combinations/problem<br>
