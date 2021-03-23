@@ -12,6 +12,7 @@ Java Picking Numbers.java = https://www.hackerrank.com/challenges/picking-number
 Java Angry Professor.java = https://www.hackerrank.com/challenges/angry-professor/problem<br>
 Java Date and Time.java = https://www.hackerrank.com/challenges/java-date-and-time/problem<br>
 Java A Very Big Sum.java = https://www.hackerrank.com/challenges/a-very-big-sum/problem<br>
+Java Apple and Orange.java = https://www.hackerrank.com/challenges/apple-and-orange/problem<br>
 
 <br>
 <br>
