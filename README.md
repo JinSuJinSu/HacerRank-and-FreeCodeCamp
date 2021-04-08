@@ -16,6 +16,7 @@ Java Apple and Orange.java = https://www.hackerrank.com/challenges/apple-and-ora
 Java Hashset.java = https://www.hackerrank.com/challenges/java-hashset/problem<br>
 Java Angry Professor.java = https://www.hackerrank.com/challenges/angry-professor/problem<br>
 Java Time Conversion.java = https://www.hackerrank.com/challenges/time-conversion/problem<br>
+Java Fair Rations.java = https://www.hackerrank.com/challenges/fair-rations/problem<br>
 
 
 <br>
