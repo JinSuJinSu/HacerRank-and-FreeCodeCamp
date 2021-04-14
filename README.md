@@ -18,6 +18,7 @@ Java Angry Professor.java = https://www.hackerrank.com/challenges/angry-professo
 Java Time Conversion.java = https://www.hackerrank.com/challenges/time-conversion/problem<br>
 Java Fair Rations.java = https://www.hackerrank.com/challenges/fair-rations/problem<br>
 Java Subarray Division.java = https://www.hackerrank.com/challenges/the-birthday-bar/problem<br>
+Java Lisa's Workbook.java = https://www.hackerrank.com/challenges/lisa-workbook/problem<br>
 
 
 <br>
