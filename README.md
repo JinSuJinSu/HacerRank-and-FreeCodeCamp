@@ -21,7 +21,7 @@ Java Subarray Division.java = https://www.hackerrank.com/challenges/the-birthday
 Java Lisa's Workbook.java = https://www.hackerrank.com/challenges/lisa-workbook/problem<br>
 
 
-<br>
+
 <br>
 <br>
 <br>
@@ -32,7 +32,7 @@ Javascript Use .has and .size.js = https://www.freecodecamp.org/learn/coding-int
 
 
 
-<br>
+
 <br>
 <br>
 <br>
