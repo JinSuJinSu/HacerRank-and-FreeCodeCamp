@@ -19,6 +19,7 @@ Java Time Conversion.java = https://www.hackerrank.com/challenges/time-conversio
 Java Fair Rations.java = https://www.hackerrank.com/challenges/fair-rations/problem<br>
 Java Subarray Division.java = https://www.hackerrank.com/challenges/the-birthday-bar/problem<br>
 Java Lisa's Workbook.java = https://www.hackerrank.com/challenges/lisa-workbook/problem<br>
+Java Chocolate Feast.java = https://www.hackerrank.com/challenges/chocolate-feast/problem<br>
 
 
 
