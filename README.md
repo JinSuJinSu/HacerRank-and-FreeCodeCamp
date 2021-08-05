@@ -20,6 +20,7 @@ Java Fair Rations.java = https://www.hackerrank.com/challenges/fair-rations/prob
 Java Subarray Division.java = https://www.hackerrank.com/challenges/the-birthday-bar/problem<br>
 Java Lisa's Workbook.java = https://www.hackerrank.com/challenges/lisa-workbook/problem<br>
 Java Chocolate Feast.java = https://www.hackerrank.com/challenges/chocolate-feast/problem<br>
+Java Service Lane.java = https://www.hackerrank.com/challenges/service-lane/problem<br>
 
 
 
